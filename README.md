@@ -15,3 +15,9 @@ create env and activate
 
 $ python -m venv env
 $ source env/bin/activate
+
+** followed these two tutorials for the implementation of django debug toolbar
+
+https://www.youtube.com/watch?v=GEogao-tUec&list=PLLRM7ROnmA9FgFlqn-HHBz0LJ62qJBwSw
+
+https://django-debug-toolbar.readthedocs.io/en/latest/configuration.html
